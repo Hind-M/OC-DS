@@ -1,5 +1,5 @@
 # OC-DS
-OC Data Scientist training program projects repository
+OpenClassrooms Data Scientist training program projects repository
 
 ## Project 1:
 Training planning and strategy
