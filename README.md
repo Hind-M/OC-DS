@@ -30,4 +30,4 @@ Interpretability (Shap)
 
 (Refer to OC-P7 repository)
 ## Project 8:
-Use Spark and AWS for big data reduction dimension
+Use Spark and AWS for big data dimension reduction
